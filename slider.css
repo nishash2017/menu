@@ -1,0 +1,35 @@
+#particles-js{
+	background:green;
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
+	width: 100%;
+	
+}
+.ancho-letras{
+	top: 200px;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	z-index: 1;
+}
+.letras-slider{
+	width: 80%;
+	margin: auto;
+}
+.letras-slider h1{
+	color: #091a9b;
+	font-family: rale;
+	font-size: 60px;
+}
+.letras-slider p{
+	color: #fff;
+	font-size: 30px;
+	font-family: rale;
+	padding-top: 50px;
+}
+img{
+	width: 200px;
+	height: 100%;
+	position: center;
+}
